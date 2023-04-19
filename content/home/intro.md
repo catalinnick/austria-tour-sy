@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  WEST COAST  
+  AUSTRIA  
   TOUR
   {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
@@ -22,5 +22,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-BETWEEN 13<sup>th</sup> AND 31<sup>st</sup> OF JULY
+BETWEEN 22<sup>th</sup> AND 31<sup>st</sup> OF JULY
 {style="color: white"}

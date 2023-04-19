@@ -56,7 +56,7 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-After a prologue pandemic, we happily announce the first sahaj tour after all these years. We will travel along the West Coast of the USA starting from 13<sup>th</sup> of July till the 31<sup>st</sup> of July. We will enjoy the warmth of many collectives and will bathe in punias. Below you will see a map of the routes, main stop, accommodations and public programs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper scelerisque metus. Pellentesque a metus ac metus dignissim efficitur accumsan nec tortor. Nunc molestie turpis erat, sed imperdiet lacus efficitur a. Fusce mi diam, molestie eget erat eget, luctus feugiat justo. Sed sit amet lorem sed mi vehicula pellentesque ac sit amet sem. Quisque sit amet ipsum quis turpis pharetra fringilla. Vivamus varius consectetur libero, sit amet dictum tortor posuere a. In hac habitasse platea dictumst. Sed quis turpis non sapien mattis consequat. Nulla metus augue, posuere id ligula eu, ullamcorper cursus nulla. Quisque interdum id libero ut mollis. Proin ullamcorper bibendum erat, ac ullamcorper odio luctus nec. Vestibulum quis dapibus orci. Nulla volutpat ultricies orci, varius ullamcorper nibh bibendum eget. Nulla facilisi. 
 
 
  <div class="container" style="position: relative;width: 100%;overflow: hidden;padding-top: 75%;">
