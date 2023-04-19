@@ -1,8 +1,10 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
+
+# Uncomment the lines below to use the CMS:
+
+#type: wowchemycms
+#outputs:
+#- wowchemycms_config
+#- HTML
 ---
