@@ -10,7 +10,7 @@ title: '"Now Austria is very strategically placed in Sahaja Yoga, it’s a bridg
 subtitle: "Shri Mataji Nirmala Devi February 13, 1984 Talk to austrian yoghis, Bordi India"
 design:
   background:
-    color: '#ff3860'
+    color: '#0277BD'
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
