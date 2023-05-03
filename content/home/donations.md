@@ -6,8 +6,8 @@ title: Support this tour
 hero_media: vnd.svg
 design:
   background:
-    gradient_start: '#D84767'
-    gradient_end: '#D42140'
+    gradient_start: '#0277BD'
+    gradient_end: '#10273A'
     text_color_light: true
   css_class: d-flex
 cta:
